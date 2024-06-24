@@ -1,1 +1,1 @@
-This is the project which enhanced my understandings of the fundamental concepts that are used in python . I wroted and ran a program to create the classic game called rock,paper,scissor using python concepts. 
+
